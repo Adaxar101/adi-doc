@@ -1,5 +1,7 @@
 use sales;
 
+
+
 SELECT*FROM sales;
 
 SELECT sales.item_code FROM sales;
