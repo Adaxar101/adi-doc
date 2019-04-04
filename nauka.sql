@@ -30,6 +30,8 @@ CREATE TABLE companies (
     headquarters_phone_number INT(12)
     );
     
+	
+	
 
 
 
